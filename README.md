@@ -57,9 +57,8 @@ Para executar o MetaSynk a partir do código fonte, você precisará:
 
 O desenvolvimento do MetaSynk é impulsionado pela interação da comunidade. Se você valoriza este projeto, considere apoiar:
 
-*   ⭐ **GitHub**: [saulomgg/HubSynk](https://github.com/saulomgg/HubSynk)
 *   📂 **Portfólio**: [github.com/saulomgg](https://github.com/saulomgg)
 *   💬 **Feedback**: Acesse o botão de suporte dentro do programa para enviar sugestões.
 
 ---
-Desenvolvido com ❤️ por **saulomgg**
+Desenvolvido por **saulomgg**
